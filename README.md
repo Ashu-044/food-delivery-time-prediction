@@ -192,9 +192,7 @@ python app/app.py
 ## 👨‍💻 Author
 
 **Ashutosh Thakare**  
-🔗 [LinkedIn: https://linkedin.com/ashutoshthakare/?skipRedirect=true
-
----
+🔗 https://www.linkedin.com/in/ashutoshthakare
 
 ## 🏷️ Badges
 
