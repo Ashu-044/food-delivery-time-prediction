@@ -204,8 +204,8 @@ python app/app.py
 
 ## 📊 Project Presentation
 
-📌 Download full presentation here:  
-[presentation/Food_Delivery_Time_Prediction_ML_Project.pptx](presentation/Food_Delivery_Time_Prediction_ML_Project.pptx)
+📌 View full presentation here:  
+[(https://drive.google.com/drive/folders/1BW_yUetuCA2FNXDGMYPOV0VeQ6-kZu_e?usp=sharing)](https://drive.google.com/drive/folders/1BW_yUetuCA2FNXDGMYPOV0VeQ6-kZu_e?usp=sharing)
 
 ## ⭐ Final Note
 
