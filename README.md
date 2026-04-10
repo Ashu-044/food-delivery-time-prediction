@@ -192,7 +192,7 @@ python app/app.py
 ## 👨‍💻 Author
 
 **Ashutosh Thakare**  
-🔗 LinkedIn: https://linkedin.com/Ashu-044 
+🔗 [LinkedIn: https://linkedin.com/ashutoshthakare/?skipRedirect=true
 
 ---
 
