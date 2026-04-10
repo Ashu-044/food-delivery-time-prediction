@@ -202,6 +202,11 @@ python app/app.py
 
 ---
 
+## 📊 Project Presentation
+
+📌 Download full presentation here:  
+[presentation/Food_Delivery_Time_Prediction_ML_Project.pptx](presentation/Food_Delivery_Time_Prediction_ML_Project.pptx)
+
 ## ⭐ Final Note
 
 This project demonstrates how Machine Learning can be applied to solve real-world logistics problems, improving delivery accuracy and operational efficiency.
