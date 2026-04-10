@@ -205,7 +205,7 @@ python app/app.py
 ## 📊 Project Presentation
 
 📌 View full presentation here:  
-[(https://drive.google.com/drive/folders/1BW_yUetuCA2FNXDGMYPOV0VeQ6-kZu_e?usp=sharing)](https://drive.google.com/drive/folders/1BW_yUetuCA2FNXDGMYPOV0VeQ6-kZu_e?usp=sharing)
+[[(https://drive.google.com/drive/folders/1BW_yUetuCA2FNXDGMYPOV0VeQ6-kZu_e?usp=sharing)](https://drive.google.com/drive/folders/1BW_yUetuCA2FNXDGMYPOV0VeQ6-kZu_e?usp=sharing)](https://docs.google.com/presentation/d/1oX_mIL0PzyggC_vL7rCzkM8kMDa6E5IL/edit?usp=sharing&ouid=101068523816531313968&rtpof=true&sd=true)
 
 ## ⭐ Final Note
 
