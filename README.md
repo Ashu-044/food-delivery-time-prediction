@@ -144,6 +144,14 @@ pip install -r requirements.txt
 Place your dataset in:
 data/dataset.csv
 
+## 📦 Model File
+
+Due to GitHub file size limitations, the trained machine learning model is not included in this repository.
+
+You can download the model file from the link below:
+
+🔗 **[Download Trained Model (.pkl)](https://drive.google.com/file/d/173twUbt2exwrNfRjxHtD4AT1a5R16JoX/view?usp=sharing)**
+
 ### 4. Run the application
 
 **For Streamlit:**
