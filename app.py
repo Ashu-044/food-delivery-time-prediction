@@ -21,26 +21,19 @@ distance = st.number_input("Distance")
 vehicle = st.selectbox("Vehicle", ["motorcycle", "scooter"])
 order = st.selectbox("Order", ["Snack", "Drinks", "Buffet"])
 
-# create input dataframe with correct structure
 input_df = pd.DataFrame(columns=model.feature_names_in_)
 input_df.loc[0] = 0
 
-# numeric features
 input_df['delivery_person_age'] = age
 input_df['delivery_person_ratings'] = rating
 input_df['distance'] = distance
 
-# categorical encoding
-vehicle_col = f"type_of_vehicle_{vehicle}"
-order_col = f"type_of_order_{order}"
+if f"type_of_vehicle_{vehicle}" in input_df.columns:
+    input_df[f"type_of_vehicle_{vehicle}"] = 1
 
-if vehicle_col in input_df.columns:
-    input_df[vehicle_col] = 1
+if f"type_of_order_{order}" in input_df.columns:
+    input_df[f"type_of_order_{order}"] = 1
 
-if order_col in input_df.columns:
-    input_df[order_col] = 1
-
-# prediction
 if st.button("Predict"):
     pred = model.predict(input_df)
     st.success(f"Delivery Time: {pred[0]:.2f} minutes")
