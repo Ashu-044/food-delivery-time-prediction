@@ -1,5 +1,12 @@
+<<<<<<< HEAD
 streamlit
 numpy
 scikit-learn
 joblib
+=======
+streamlit
+numpy
+scikit-learn
+joblib
+>>>>>>> 63d57ae (final working app)
 gdown
