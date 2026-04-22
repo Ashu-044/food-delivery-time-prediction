@@ -53,10 +53,13 @@ The dataset includes the following features:
 - Vehicle Type  
 - Delivery Time (**Target Variable**)  
 
-⚠️ **Note:**  
-The dataset is not included in this repository due to size limitations.
+## 📂 Dataset
 
-👉 To run this project, place your dataset in:
+The dataset used for this project is hosted externally due to size limitations.
+
+🔗 **[Download Dataset](https://docs.google.com/spreadsheets/d/1lo4Nl3rhkx-ws3wFjnwsVJpvASQAMbeW/edit?usp=sharing)**
+
+After downloading, place the dataset inside the `data/` folder before running the project.
 
 
 ---
