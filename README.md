@@ -218,6 +218,15 @@ python app/app.py
 📌 View full presentation here:  
 [https://docs.google.com/presentation/d/1w-E51os2TPD0bbb0aEAga6e6aMmQz441/preview](https://drive.google.com/file/d/1LXJJfCFRNCeW8ZNTB8d-w8diPk1n0G_T/view?usp=sharing)
 
+---
+
+## 🌐 Live Demo
+
+🚀 **Try the App:**  
+https://food-delivery-time-prediction-bqsatnt7x9vmshrxkpzx5x.streamlit.app/
+
+---
+
 ## ⭐ Final Note
 
 This project demonstrates how Machine Learning can be applied to solve real-world logistics problems, improving delivery accuracy and operational efficiency.
